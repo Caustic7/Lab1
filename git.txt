@@ -1,5 +1,1 @@
 Hello, world
-
-My name is Kostya. 
-
-I'm 20 years old.
