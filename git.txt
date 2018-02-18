@@ -4,4 +4,4 @@ My name is Kostya.
 
 I'm 20 years old.
 
-I'm practicing in the using og github.
+I'm practicing in the using of github.
