@@ -2,6 +2,6 @@ Hello, world
 
 My name is Kostya.
 
-I was born in the 5 February of 1998.
+I was born on 5 February, 1998.
 
 I'm 20 years old.
