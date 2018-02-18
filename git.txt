@@ -7,3 +7,5 @@ I was born on 5 February, 1998.
 I'm practicing in the using of github.
 
 Что нам там задали по англмйскому??
+
+Он что, просто хочет больше измененний в этом файле?
