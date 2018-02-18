@@ -4,6 +4,4 @@ My name is Kostya.
 
 I was born on 5 February, 1998.
 
-I'm 20 years old.
-
 I'm practicing in the using of github.
